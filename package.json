@@ -11,7 +11,7 @@
     "node",
     "backendraj"
   ],
-  "author": "raj maurya",
+  "author": "abhay singh",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.4.5",
